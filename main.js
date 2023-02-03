@@ -12,4 +12,3 @@ let idade = 2023 - birth;
 
 alert ("Sua idade é:" + " " + idade);
 
-
